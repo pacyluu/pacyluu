@@ -1,14 +1,10 @@
-<h1 align="center">Hi! I'm Pacy</h1>
+##Hey There
 
-## About Me
+I have experience with Python, Netmiko, and Ansible
 
-- I have experience with Python, Netmiko, and Ansible
-- Interested in software engineering, networking, and automation
-- Currently learning more about infrastructure and development tools
-- Building webscraping projects in my free time
+Interested in software engineering, networking, and automation
 
-## Languages and Tools
+Currently learning more about infrastructure and development tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,ansible" />
-</p>
+Building webscraping projects in my free time
+
