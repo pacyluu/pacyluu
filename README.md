@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Pacy</h1>
 
-<!--
-**pacyluu/pacyluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- I have experience with Python, Netmiko, and Ansible
+- Interested in software engineering, networking, and automation
+- Currently learning more about infrastructure and development tools
+- Building webscraping projects in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,ansible" />
+</p>
