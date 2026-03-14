@@ -1,10 +1,14 @@
-##Hey There
+## Hey there!
 
-I have experience with Python, Netmiko, and Ansible
+I'm Pacy, a software developer based in Maryland.
 
-Interested in software engineering, networking, and automation
+I mainly program in Python. If an idea pops into my head, chances are I'll build it.
 
-Currently learning more about infrastructure and development tools
+I have experience in software development, networking, and network automation. I'm currently learning more about infrastructure and development tools
 
-Building webscraping projects in my free time
+I'm currently building a CLI tool to help you download (webscrape) your favorite mangas and manhwas off your favorite sites
 
+Fun Facts
+- I have 2 cats
+- My favorite anime is Love Live
+- Hobbies: Outdoor climbing (bouldering and top-rope)
