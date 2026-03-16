@@ -11,4 +11,4 @@ I'm currently building a CLI tool to help you download (webscrape) your favorite
 Fun Facts
 - I have 2 cats
 - My favorite anime is Love Live
-- Hobbies: Outdoor climbing (bouldering and top-rope)
+- Hobbies: Outdoor climbing (boulder and top-rope)
