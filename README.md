@@ -2,9 +2,9 @@
 
 I'm Pacy, a software developer based in Maryland.
 
-I mainly program in Python. If an idea pops into my head, chances are I'll build it.
+I mainly program in Python.
 
-I have experience in software development, networking, and network automation. I'm currently learning more about infrastructure and development tools
+I have experience in software development and network automation. I'm currently learning more about infrastructure and development tools
 
 I'm currently building a CLI tool to help you download (webscrape) your favorite mangas and manhwas off your favorite sites
 
