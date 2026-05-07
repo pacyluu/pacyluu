@@ -10,5 +10,4 @@ I'm currently building a CLI tool to help you download (webscrape) your favorite
 
 Fun Facts
 - I have 2 cats
-- My favorite anime is Love Live
 - Hobbies: Swimming, outdoor climbing
